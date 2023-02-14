@@ -2,6 +2,12 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
+// 投稿一覧ページ　テーブル
+
+table {
+  margin: 1rem 0 1rem 0;
+}
+
 th {
   text-aligin: center;
   padding-bottom: 5px;
@@ -11,3 +17,12 @@ td {
   padding: 0 5px 7px 5px;
 }
 
+// form欄のcss
+
+form {
+  margin: 1rem 0 1rem 0;
+}
+
+.form-box {
+  margin-bottom: 10px;
+}
