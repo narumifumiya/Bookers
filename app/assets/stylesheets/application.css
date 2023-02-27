@@ -19,6 +19,7 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 body {
   margin: 33px;
   width: 880px;
@@ -28,7 +29,6 @@ body {
   font-size: 13px;
   line-height: 18px;
 }
-
 
 a {
   color: #000;
