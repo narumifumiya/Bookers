@@ -36,7 +36,7 @@
   <% end %>
 </div>
 
-<%= form_with model: @book, url: '/books', method: :post do |f| %>
+<%= form_with model: @book, url: books_path , method: :post do |f| %>
 
   <div class="form-box">
     <%= f.label :title, "Title" %>
